@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+build/
+cmake-build-*/
+data/
+*.npy
